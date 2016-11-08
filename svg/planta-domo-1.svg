@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="planta-domo-1.svg">
+  <metadata
+     id="metadata248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs246" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     id="namedview244"
+     showgrid="false"
+     inkscape:zoom="0.33733633"
+     inkscape:cx="421.67672"
+     inkscape:cy="222.39526"
+     inkscape:window-x="377"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer16"
+     showguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4718"
+       width="272.12656"
+       height="172.14963"
+       x="15.972646"
+       y="15.961933"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Paso-1: Clave"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 103.84146,102.05287 70.212295,77.617242"
+       id="Shape2DView004_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 70.212295,126.4885 103.84146,102.05287"
+       id="Shape2DView004_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 116.68699,141.59044 103.84146,102.05287"
+       id="Shape2DView002_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 103.84146,102.05287 12.8452,-39.537677"
+       id="Shape2DView001_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 145.4094,102.05287 -41.56794,0"
+       id="Shape2DView003_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545"
+       sodipodi:type="arc"
+       sodipodi:cx="103.54763"
+       sodipodi:cy="101.91786"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 105.83934,102.01762 a 2.2938781,2.2938781 0 0 1 -2.38037,2.19241 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.215363 2.2938781,2.2938781 0 0 1 2.22676,2.348253"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Paso-8: Nivel-2-3"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#b3b3b3;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.212296,77.617242 0,48.871258"
+       id="Shape2DView004_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 70.212296,77.617242 116.68666,62.515193"
+       id="Shape2DView035_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.212296,126.4885 46.474694,15.10194"
+       id="Shape2DView002_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 116.68666,62.515193 145.4094,102.05287"
+       id="Shape2DView037_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 116.68699,141.59044 145.4094,102.05287"
+       id="Shape2DView003_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Paso-7-Nivel-2-2"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.057808,166.02338 70.212297,126.4885"
+       id="Shape2DView023_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 116.68666,62.515193 83.057808,38.082363"
+       id="Shape2DView035_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.057808,38.082363 70.212297,77.617239"
+       id="Shape2DView035_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 116.68666,62.515193 41.56657,0.0028"
+       id="Shape2DView010_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 158.25323,141.58773 145.4094,102.05287"
+       id="Shape2DView005_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 145.4094,102.05287 158.25323,62.518013"
+       id="Shape2DView037_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.057808,166.02338 116.68699,141.59044"
+       id="Shape2DView026_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 36.585889,102.05287 70.212297,77.617239"
+       id="Shape2DView017_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 36.585889,102.05287 70.212297,126.4885"
+       id="Shape2DView020_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 158.25323,141.58773 -41.56624,0.003"
+       id="Shape2DView028_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Paso-6: Nivel-2-1"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 70.212297,126.4885 46.630595,143.62344"
+       id="Shape2DView023_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 70.212297,77.61724 46.629722,60.48167"
+       id="Shape2DView015_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.69479,34.789994 -9.00813,27.725199"
+       id="Shape2DView010_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 145.4094,102.05287 29.14853,0"
+       id="Shape2DView005_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 116.68699,141.59044 9.0078,27.72531"
+       id="Shape2DView026_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2"
+       sodipodi:type="arc"
+       sodipodi:cx="116.23143"
+       sodipodi:cy="141.04872"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 118.52314,141.14848 a 2.2938781,2.2938781 0 0 1 -2.38037,2.19241 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34825"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7"
+       sodipodi:type="arc"
+       sodipodi:cx="144.56757"
+       sodipodi:cy="102.18773"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 146.85927,102.28749 a 2.2938781,2.2938781 0 0 1 -2.38036,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.215357 2.2938781,2.2938781 0 0 1 2.22676,2.348257"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0"
+       sodipodi:type="arc"
+       sodipodi:cx="115.96156"
+       sodipodi:cy="62.786999"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 118.25327,62.88676 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9"
+       sodipodi:type="arc"
+       sodipodi:cx="70.353867"
+       sodipodi:cy="77.899605"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 72.645574,77.999366 a 2.2938781,2.2938781 0 0 1 -2.380367,2.192403 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-3"
+       sodipodi:type="arc"
+       sodipodi:cx="70.353867"
+       sodipodi:cy="126.74571"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 72.645574,126.84547 a 2.2938781,2.2938781 0 0 1 -2.380367,2.19241 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.34825"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Paso-5: Nivel-1-3"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.057808,38.082363 125.69479,34.789992"
+       id="Shape2DView011_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 158.25323,62.518016 125.69479,34.789995"
+       id="Shape2DView010_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 158.25323,62.518016 16.3047,39.534854"
+       id="Shape2DView006_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 158.25323,141.58774 16.3047,-39.53487"
+       id="Shape2DView009_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.69479,169.31576 32.55844,-27.72802"
+       id="Shape2DView028_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 46.630595,143.62344 36.427213,22.39995"
+       id="Shape2DView023_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 125.69479,169.31576 83.057808,166.02339"
+       id="Shape2DView027_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 46.629723,60.481671 83.057811,38.082365"
+       id="Shape2DView019_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 46.630596,143.62344 36.58589,102.05287"
+       id="Shape2DView025_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 46.629723,60.481671 36.58589,102.05287"
+       id="Shape2DView017_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Paso-4: Nivel-1-2"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 103.84146,181.12597 21.85333,-11.81022"
+       id="Shape2DView030_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.69479,169.31575 24.62092,-3.29179"
+       id="Shape2DView030_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 57.367215,166.02396 46.630594,143.62344"
+       id="Shape2DView022_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 28.644554,126.48639 17.98604,17.13705"
+       id="Shape2DView025_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 57.367215,38.08178 46.629722,60.481671"
+       id="Shape2DView016_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 46.629722,60.481671 28.644555,77.619355"
+       id="Shape2DView016_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 125.69479,34.789995 103.84146,22.979771"
+       id="Shape2DView011_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.69479,34.789995 24.62092,3.291785"
+       id="Shape2DView012_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 174.55793,102.05287 4.48044,24.43352"
+       id="Shape2DView009_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 174.55793,102.05287 4.48044,-24.433515"
+       id="Shape2DView006_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5"
+       sodipodi:type="arc"
+       sodipodi:cx="125.94667"
+       sodipodi:cy="35.530331"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 128.23838,35.630092 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6"
+       sodipodi:type="arc"
+       sodipodi:cx="173.71332"
+       sodipodi:cy="101.64799"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 176.00503,101.74775 a 2.2938781,2.2938781 0 0 1 -2.38037,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.215358 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2"
+       sodipodi:type="arc"
+       sodipodi:cx="125.6768"
+       sodipodi:cy="169.38484"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 127.96851,169.4846 a 2.2938781,2.2938781 0 0 1 -2.38037,2.19241 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34825"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2-9"
+       sodipodi:type="arc"
+       sodipodi:cx="47.415085"
+       sodipodi:cy="143.47752"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 49.706793,143.57728 a 2.2938781,2.2938781 0 0 1 -2.380368,2.19241 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359017,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2-9-1"
+       sodipodi:type="arc"
+       sodipodi:cx="47.415085"
+       sodipodi:cy="60.628044"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 49.706793,60.727805 a 2.2938781,2.2938781 0 0 1 -2.380368,2.192403 2.2938781,2.2938781 0 0 1 -2.203907,-2.369719 2.2938781,2.2938781 0 0 1 2.359017,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Paso-3: Nivel-1-1"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 103.84146,22.979771 83.057808,38.082366"
+       id="Shape2DView011_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 158.25323,62.518016 150.31571,38.08178"
+       id="Shape2DView040_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 179.03837,77.619355 158.25323,62.518015"
+       id="Shape2DView040_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-0"
+       sodipodi:type="arc"
+       sodipodi:cx="158.06097"
+       sodipodi:cy="63.326736"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 160.35268,63.426498 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 179.03837,126.48639 -20.78514,15.10134"
+       id="Shape2DView009_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 150.31571,166.02396 7.93752,-24.43623"
+       id="Shape2DView036_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 83.057808,166.02338 20.783652,15.10259"
+       id="Shape2DView027_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-0-6"
+       sodipodi:type="arc"
+       sodipodi:cx="158.33084"
+       sodipodi:cy="141.31859"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 160.62255,141.41835 a 2.2938781,2.2938781 0 0 1 -2.38037,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.057808,38.082365 57.367215,38.081772"
+       id="Shape2DView019_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 83.057808,166.02338 -25.690593,5.7e-4"
+       id="Shape2DView022_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 36.585889,102.05287 -7.941334,24.43352"
+       id="Shape2DView025_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 36.585889,102.05287 28.644555,77.619355"
+       id="Shape2DView032_nwe0000"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6"
+       sodipodi:type="arc"
+       sodipodi:cx="83.037666"
+       sodipodi:cy="39.038612"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 85.329374,39.138374 a 2.2938781,2.2938781 0 0 1 -2.380367,2.192402 2.2938781,2.2938781 0 0 1 -2.203907,-2.369719 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-0-6-2"
+       sodipodi:type="arc"
+       sodipodi:cx="83.307533"
+       sodipodi:cy="166.14644"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 85.599241,166.2462 a 2.2938781,2.2938781 0 0 1 -2.380367,2.1924 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-0-6-2-6"
+       sodipodi:type="arc"
+       sodipodi:cx="36.89024"
+       sodipodi:cy="102.18772"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 39.181947,102.28748 a 2.2938781,2.2938781 0 0 1 -2.380367,2.19241 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.215364 2.2938781,2.2938781 0 0 1 2.226761,2.348254"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Paso-2: Perimetro-base"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 103.84146,22.979771 57.367217,38.08178"
+       id="Shape2DView039_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 150.31571,38.08178 28.72266,39.537575"
+       id="Shape2DView040_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 28.644555,77.619355 57.367217,38.08178"
+       id="Shape2DView016_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 150.31571,166.02396 -46.47425,15.10202"
+       id="Shape2DView030_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 57.367217,166.02396 28.644555,126.4864"
+       id="Shape2DView021_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 28.644555,77.619355 0,48.867045"
+       id="Shape2DView032_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 57.367217,166.02396 46.474243,15.10202"
+       id="Shape2DView031_nwe0001"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 179.03837,126.4864 -28.72266,39.53756"
+       id="Shape2DView036_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 150.31571,38.08178 103.84146,22.979771"
+       id="Shape2DView012_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1"
+       sodipodi:type="arc"
+       sodipodi:cx="103.8175"
+       sodipodi:cy="23.656137"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 106.1092,23.755899 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 179.03837,77.619355 0,48.867045"
+       id="Shape2DView008_nwe0002"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8"
+       sodipodi:type="arc"
+       sodipodi:cx="150.77454"
+       sodipodi:cy="38.229012"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 153.06624,38.328773 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7"
+       sodipodi:type="arc"
+       sodipodi:cx="179.11067"
+       sodipodi:cy="77.899612"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 181.40238,77.999374 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9"
+       sodipodi:type="arc"
+       sodipodi:cx="178.84081"
+       sodipodi:cy="127.01559"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 181.13251,127.11535 a 2.2938781,2.2938781 0 0 1 -2.38036,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22677,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2"
+       sodipodi:type="arc"
+       sodipodi:cx="149.96494"
+       sodipodi:cy="166.14645"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 152.25664,166.24622 a 2.2938781,2.2938781 0 0 1 -2.38036,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2-0"
+       sodipodi:type="arc"
+       sodipodi:cx="104.08737"
+       sodipodi:cy="180.1796"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 106.37908,180.27936 a 2.2938781,2.2938781 0 0 1 -2.38037,2.1924 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2-0-2"
+       sodipodi:type="arc"
+       sodipodi:cx="57.939941"
+       sodipodi:cy="165.87659"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 60.231649,165.97635 a 2.2938781,2.2938781 0 0 1 -2.380367,2.1924 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2-0-2-3"
+       sodipodi:type="arc"
+       sodipodi:cx="28.524328"
+       sodipodi:cy="127.01559"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 30.816036,127.11535 a 2.2938781,2.2938781 0 0 1 -2.380367,2.1924 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2-0-2-3-7"
+       sodipodi:type="arc"
+       sodipodi:cx="28.524328"
+       sodipodi:cy="78.169479"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 30.816036,78.269241 a 2.2938781,2.2938781 0 0 1 -2.380367,2.192402 2.2938781,2.2938781 0 0 1 -2.203907,-2.369719 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-7-9-2-0-2-3-7-5"
+       sodipodi:type="arc"
+       sodipodi:cx="57.670078"
+       sodipodi:cy="37.689278"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 59.961786,37.789039 a 2.2938781,2.2938781 0 0 1 -2.380367,2.192403 2.2938781,2.2938781 0 0 1 -2.203907,-2.36972 2.2938781,2.2938781 0 0 1 2.359016,-2.21536 2.2938781,2.2938781 0 0 1 2.226761,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Leyenda"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-2-7-0-9-6-1-8-9"
+       sodipodi:type="arc"
+       sodipodi:cx="211.11565"
+       sodipodi:cy="94.724846"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 213.40735,94.824607 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-2"
+       sodipodi:type="arc"
+       sodipodi:cx="211.42992"
+       sodipodi:cy="85.518799"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 213.72162,85.61856 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.8844"
+       y="86.951462"
+       id="text4952"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954"
+         x="218.8844"
+         y="86.951462">Nodo Pentagonal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.8844"
+       y="96.120941"
+       id="text4952-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-8"
+         x="218.8844"
+         y="96.120941">Nodo Hexagonal</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 211.77847,117.43183 48.86704,0"
+       id="Shape2DView008_nwe0002-9"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.78545"
+       y="112.68517"
+       id="text4952-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-8-3"
+         x="211.78545"
+         y="112.68517">Varilla tipo B (Larga)</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 254.55582,141.98449 -41.56794,0"
+       id="Shape2DView003_nwe0001-6"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.78545"
+       y="138.12308"
+       id="text4952-2-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-8-3-2"
+         x="211.78545"
+         y="138.12308">Varilla tipo A (corta)</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5040"
+       width="68.602814"
+       height="77.387321"
+       x="201.67972"
+       y="76.042336"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Texto-Paso-1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730726"
+       id="text4772-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-1"
+         x="200.38785"
+         y="27.730726"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 1: Clave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="39.625103"
+       id="text4952-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-6"
+         x="194.03806"
+         y="39.625103">1 Nodo Pentagonal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="48.498795"
+       id="text4952-1-7-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-0-2"
+         x="194.03806"
+         y="48.498795">5 Varillas cortas (Tipo A)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Texto-Paso-2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730724"
+       id="text4772"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-19.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774"
+         x="200.38785"
+         y="27.730724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 2: Perímetro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="39.625103"
+       id="text4952-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-19.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2"
+         x="194.03806"
+         y="39.625103">10 Nodos hexagonales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="48.498795"
+       id="text4952-1-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-19.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-0"
+         x="194.03806"
+         y="48.498795">10 Varillas Largas (Tipo B)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Texto-Paso-3"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730724"
+       id="text4772-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-20.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3"
+         x="200.38785"
+         y="27.730724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 3: Nivel 1-1</tspan><tspan
+         sodipodi:role="line"
+         x="200.38785"
+         y="34.786282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan5268" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="39.625103"
+       id="text4952-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-20.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06"
+         x="194.03806"
+         y="39.625103">5 Nodos hexagonales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="192.78313"
+       y="46.825558"
+       id="text4952-1-7-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-20.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-0-6"
+         x="192.78313"
+         y="46.825558">10 Varillas Largas (Tipo B)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="241.95599"
+       y="46.428276"
+       id="text4947"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4949"
+         x="241.95599"
+         y="46.428276" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5365"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(0.28222222,0.28222222)"><flowRegion
+         id="flowRegion5367"><rect
+           id="rect5369"
+           width="327.56625"
+           height="346.83487"
+           x="649.20374"
+           y="-111.13507" /></flowRegion><flowPara
+         id="flowPara5371"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="Texto-Paso-4"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730724"
+       id="text4772-9-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-21.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3-6"
+         x="200.38785"
+         y="27.730724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 4: Nivel 1-2</tspan><tspan
+         sodipodi:role="line"
+         x="200.38785"
+         y="34.786282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan5268-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.03806"
+       y="40.880032"
+       id="text4952-1-6-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-21.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-5"
+         x="194.03806"
+         y="40.880032">5 Nodos Pentagonales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.20143"
+       y="47.805717"
+       id="text4952-1-6-1-7-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-21.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-9"
+         x="193.20143"
+         y="47.805717">5 Varillas cortas (Tipo A)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Texto-Paso-5"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730724"
+       id="text4772-9-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-22.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3-0"
+         x="200.38785"
+         y="27.730724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 5: Nivel-1-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.09016"
+       y="41.949379"
+       id="text4952-1-6-1-7-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-22.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-8"
+         x="186.09016"
+         y="41.949379">10 Varillas cortas (Tipo A)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Texto-Paso-6"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730724"
+       id="text4772-9-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-23.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3-0-7"
+         x="200.38785"
+         y="27.730724"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 6: Nivel 2-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.09016"
+       y="41.949379"
+       id="text4952-1-6-1-7-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-23.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-8-6"
+         x="186.09016"
+         y="41.949379">5 Varillas cortas (Tipo A)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.09016"
+       y="50.315575"
+       id="text4952-1-6-1-7-2-3-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-23.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-8-6-2"
+         x="186.09016"
+         y="50.315575">5 Nodos hexagonales</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Texto-Paso-7"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730726"
+       id="text4772-9-2-9-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-24.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3-0-7-3"
+         x="200.38785"
+         y="27.730726"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 7: Nivel 2-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.09016"
+       y="41.949379"
+       id="text4952-1-6-1-7-2-3-19"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-24.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-8-6-4"
+         x="186.09016"
+         y="41.949379">10 Varillas largas (Tipo B)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Texto-Paso-8"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.38785"
+       y="27.730726"
+       id="text4772-9-2-9-9-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4774-3-0-7-3-5"
+         x="200.38785"
+         y="27.730726"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Paso 8: Nivel 2-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.09016"
+       y="41.949375"
+       id="text4952-1-6-1-7-2-3-19-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-2-06-8-9-8-6-4-3"
+         x="186.09016"
+         y="41.949375">5 Varillas largas (Tipo B)</tspan></text>
+  </g>
+</svg>
