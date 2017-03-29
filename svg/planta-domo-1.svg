@@ -41,9 +41,9 @@
      inkscape:window-height="1056"
      id="namedview244"
      showgrid="false"
-     inkscape:zoom="0.67467266"
-     inkscape:cx="534.96515"
-     inkscape:cy="405.72207"
+     inkscape:zoom="0.95413123"
+     inkscape:cx="633.10969"
+     inkscape:cy="437.09657"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,7 +53,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="back"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4718"
@@ -2990,8 +2991,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="218.8844"
-       y="86.951462"
+       x="233.08231"
+       y="133.68623"
        id="text4952"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
@@ -2999,13 +3000,13 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954"
-         x="218.8844"
-         y="86.951462">Petágono</tspan></text>
+         x="233.08231"
+         y="133.68623">Petágono</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="218.8844"
-       y="96.120941"
+       x="233.08231"
+       y="142.85571"
        id="text4952-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
@@ -3013,12 +3014,12 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-8"
-         x="218.8844"
-         y="96.120941">Hexágono</tspan></text>
+         x="233.08231"
+         y="142.85571">Hexágono</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 211.77847,117.43183 48.86704,0"
+       d="m 225.97638,164.16661 48.86704,0"
        id="Shape2DView008_nwe0002-9"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
        inkscape:export-xdpi="54"
@@ -3026,8 +3027,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="211.57629"
-       y="114.77673"
+       x="225.7742"
+       y="161.51151"
        id="text4952-2-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
@@ -3035,14 +3036,14 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-8-3"
-         x="211.57629"
-         y="114.77673">Varilla larga (<tspan
+         x="225.7742"
+         y="161.51151">Varilla larga (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan5293">L</tspan>)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 253.51005,129.01688 -41.56794,0"
+       d="m 267.70796,175.75166 -41.56794,0"
        id="Shape2DView003_nwe0001-6"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
        inkscape:export-xdpi="54"
@@ -3050,8 +3051,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="211.57629"
-       y="126.4104"
+       x="225.7742"
+       y="173.14517"
        id="text4952-2-7-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
@@ -3059,8 +3060,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-8-3-2"
-         x="211.57629"
-         y="126.4104">Varilla corta (<tspan
+         x="225.7742"
+         y="173.14517">Varilla corta (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan5295">C</tspan>)</tspan></text>
     <rect
@@ -3068,103 +3069,23 @@
        id="rect5040"
        width="68.602814"
        height="62.955631"
-       x="201.67972"
-       y="76.042336"
+       x="215.87762"
+       y="122.77711"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
        inkscape:export-xdpi="54"
        inkscape:export-ydpi="54" />
     <path
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4545-4"
-       sodipodi:type="arc"
-       sodipodi:cx="211.26242"
-       sodipodi:cy="85.394623"
-       sodipodi:rx="2.2938781"
-       sodipodi:ry="2.2938781"
-       sodipodi:start="0.043503902"
-       sodipodi:end="0.024128479"
-       sodipodi:open="true"
-       d="m 213.55413,85.494384 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
-       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
-       inkscape:export-xdpi="54"
-       inkscape:export-ydpi="54" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3526-7"
-       width="2.5949669"
-       height="1.4748223"
-       x="212.04344"
-       y="84.811234"
-       ry="0"
-       inkscape:transform-center-x="-2.347831"
-       inkscape:transform-center-y="0.018486858" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3526-3-8"
-       width="2.5949669"
-       height="1.474822"
-       x="-17.854485"
-       y="226.60503"
-       ry="0"
-       inkscape:transform-center-x="-0.71535289"
-       inkscape:transform-center-y="-2.2362766"
-       transform="matrix(0.29716747,-0.95482537,0.95482537,0.29716747,0,0)" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3526-6-4"
-       width="2.5949669"
-       height="1.4748222"
-       x="146.61026"
-       y="-176.25842"
-       ry="0"
-       inkscape:transform-center-x="-0.69591817"
-       inkscape:transform-center-y="2.2424014"
-       transform="matrix(0.30391024,0.95270067,-0.95270067,0.30391024,0,0)" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3526-6-7-50"
-       width="2.5949669"
-       height="1.4748223"
-       x="-122.36189"
-       y="-192.71617"
-       ry="0"
-       inkscape:transform-center-x="1.9282821"
-       inkscape:transform-center-y="1.3395504"
-       transform="matrix(-0.81675876,0.57697932,-0.57697932,-0.81675876,0,0)" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3526-6-7-5-3"
-       width="2.5949669"
-       height="1.4748223"
-       x="-217.185"
-       y="65.263504"
-       ry="0"
-       inkscape:transform-center-x="1.8164677"
-       inkscape:transform-center-y="-1.4876593"
-       transform="matrix(-0.77861821,-0.62749795,0.62749795,-0.77861821,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="210.13268"
-       y="86.938217"
-       id="text4392-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4394-1"
-         x="210.13268"
-         y="86.938217">5</tspan></text>
-    <path
        style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4545-5-6-2-0-1-7-6-3"
        sodipodi:type="arc"
-       sodipodi:cx="-230.34566"
-       sodipodi:cy="23.078896"
+       sodipodi:cx="-265.87152"
+       sodipodi:cy="-10.441751"
        sodipodi:rx="2.2938781"
        sodipodi:ry="2.2938781"
        sodipodi:start="0.043503902"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       d="m -228.05395,23.178657 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       d="m -263.57981,-10.341989 a 2.2938781,2.2938781 0 0 1 -2.38037,2.1924026 2.2938781,2.2938781 0 0 1 -2.20391,-2.3697196 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
        inkscape:export-xdpi="54"
        inkscape:export-ydpi="54"
@@ -3174,8 +3095,8 @@
        id="rect3526-6-3-5-6-2-0-2-2-6-8"
        width="1.764412"
        height="0.91653246"
-       x="215.36327"
-       y="-60.880173"
+       x="257.85016"
+       y="-33.511524"
        ry="0"
        inkscape:transform-center-x="-0.76194189"
        inkscape:transform-center-y="0.5880506"
@@ -3183,21 +3104,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="210.08156"
-       y="95.54789"
+       x="224.27946"
+       y="142.28267"
        id="text4392-2-6-0-8-1-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4394-9-2-2-9-5-61"
-         x="210.08156"
-         y="95.54789">6</tspan></text>
+         x="224.27946"
+         y="142.28267">6</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3526-6-3-5-6-2-0-2-2-6-5-1"
        width="1.7644122"
        height="0.91653246"
-       x="-127.76123"
-       y="185.86023"
+       x="-113.69083"
+       y="233.66386"
        ry="0"
        inkscape:transform-center-x="0.8499854"
        inkscape:transform-center-y="0.45152921"
@@ -3207,8 +3128,8 @@
        id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8"
        width="1.7644123"
        height="0.91653246"
-       x="210.32089"
-       y="104.22462"
+       x="225.67329"
+       y="151.71837"
        ry="0"
        inkscape:transform-center-x="-0.95982429"
        inkscape:transform-center-y="-0.071268004"
@@ -3218,8 +3139,8 @@
        id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-481"
        width="1.7644123"
        height="0.91653246"
-       x="72.677643"
-       y="223.46017"
+       x="48.296551"
+       y="264.05447"
        ry="0"
        inkscape:transform-center-x="-0.58758714"
        inkscape:transform-center-y="-0.76229433"
@@ -3229,8 +3150,8 @@
        id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-5-0"
        width="1.7644123"
        height="0.91653246"
-       x="-217.55351"
-       y="-105.09785"
+       x="-261.43976"
+       y="-86.601364"
        ry="0"
        inkscape:transform-center-x="0.58758508"
        inkscape:transform-center-y="-0.76229098"
@@ -3240,12 +3161,107 @@
        id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-3"
        width="1.7644123"
        height="0.91653246"
-       x="-213.16406"
-       y="83.658203"
+       x="-226.27412"
+       y="129.76968"
        ry="0"
        inkscape:transform-center-x="0.95982834"
        inkscape:transform-center-y="-0.071271157"
        transform="matrix(-0.99882072,-0.04855077,0.02392705,0.99971371,0,0)" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-4-6"
+       sodipodi:type="arc"
+       sodipodi:cx="226.05191"
+       sodipodi:cy="131.83362"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 228.34362,131.93338 a 2.2938781,2.2938781 0 0 1 -2.38037,2.1924 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.34826"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-7-4"
+       width="2.5949669"
+       height="1.4748223"
+       x="226.83293"
+       y="131.25023"
+       ry="0"
+       inkscape:transform-center-x="-2.347831"
+       inkscape:transform-center-y="0.018486858" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-3-8-1"
+       width="2.5949669"
+       height="1.474822"
+       x="-57.800655"
+       y="254.52655"
+       ry="0"
+       inkscape:transform-center-x="-0.71535289"
+       inkscape:transform-center-y="-2.2362766"
+       transform="matrix(0.29716747,-0.95482537,0.95482537,0.29716747,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-4-2"
+       width="2.5949669"
+       height="1.4748222"
+       x="195.3474"
+       y="-176.23509"
+       ry="0"
+       inkscape:transform-center-x="-0.69591817"
+       inkscape:transform-center-y="2.2424014"
+       transform="matrix(0.30391024,0.95270067,-0.95270067,0.30391024,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-50-8"
+       width="2.5949669"
+       height="1.4748223"
+       x="-107.647"
+       y="-239.17885"
+       ry="0"
+       inkscape:transform-center-x="1.9282821"
+       inkscape:transform-center-y="1.3395504"
+       transform="matrix(-0.81675876,0.57697932,-0.57697932,-0.81675876,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-5-3-8"
+       width="2.5949669"
+       height="1.4748223"
+       x="-257.84073"
+       y="38.385632"
+       ry="0"
+       inkscape:transform-center-x="1.8164677"
+       inkscape:transform-center-y="-1.4876593"
+       transform="matrix(-0.77861821,-0.62749795,0.62749795,-0.77861821,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="224.92216"
+       y="133.37721"
+       id="text4392-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-1-2"
+         x="224.92216"
+         y="133.37721">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="235.15282"
+       y="118.89676"
+       id="text4952-1-0-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         x="235.15282"
+         y="118.89676"
+         id="tspan5781-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">LEYENDA</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3270,8 +3286,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="39.625103"
+       x="200.84122"
+       y="61.217754"
        id="text4952-1-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
@@ -3279,13 +3295,13 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-6"
-         x="194.03806"
-         y="39.625103">1 Pentágono</tspan></text>
+         x="200.84122"
+         y="61.217754">1 Pentágono</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="48.498795"
+       x="200.84122"
+       y="70.091446"
        id="text4952-1-7-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
@@ -3293,8 +3309,10 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-0-2"
-         x="194.03806"
-         y="48.498795">5 Varillas cortas</tspan></text>
+         x="200.84122"
+         y="70.091446">5 Varillas cortas (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan7104">C</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3358,8 +3376,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="205.86964"
-       y="154.68732"
+       x="70.693733"
+       y="154.39153"
        id="text4952-1-0-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
@@ -3367,12 +3385,115 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-6-4"
-         x="205.86964"
-         y="154.68732">(Se colocará en el domo</tspan><tspan
+         x="70.693733"
+         y="154.39153">(Se colocará en el domo</tspan><tspan
          sodipodi:role="line"
-         x="205.86964"
-         y="160.86093"
+         x="70.693733"
+         y="160.56514"
          id="tspan5781"> en el último paso)</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-4"
+       sodipodi:type="arc"
+       sodipodi:cx="238.17929"
+       sodipodi:cy="59.365128"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 240.471,59.464889 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-7"
+       width="2.5949669"
+       height="1.4748223"
+       x="238.96031"
+       y="58.781738"
+       ry="0"
+       inkscape:transform-center-x="-2.347831"
+       inkscape:transform-center-y="0.018486858" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-3-8"
+       width="2.5949669"
+       height="1.474822"
+       x="14.997956"
+       y="244.57082"
+       ry="0"
+       inkscape:transform-center-x="-0.71535289"
+       inkscape:transform-center-y="-2.2362766"
+       transform="matrix(0.29716747,-0.95482537,0.95482537,0.29716747,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-4"
+       width="2.5949669"
+       height="1.4748222"
+       x="129.99226"
+       y="-209.81276"
+       ry="0"
+       inkscape:transform-center-x="-0.69591817"
+       inkscape:transform-center-y="2.2424014"
+       transform="matrix(0.30391024,0.95270067,-0.95270067,0.30391024,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-50"
+       width="2.5949669"
+       height="1.4748223"
+       x="-159.36494"
+       y="-186.98683"
+       ry="0"
+       inkscape:transform-center-x="1.9282821"
+       inkscape:transform-center-y="1.3395504"
+       transform="matrix(-0.81675876,0.57697932,-0.57697932,-0.81675876,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-5-3"
+       width="2.5949669"
+       height="1.4748223"
+       x="-221.80949"
+       y="102.42082"
+       ry="0"
+       inkscape:transform-center-x="1.8164677"
+       inkscape:transform-center-y="-1.4876593"
+       transform="matrix(-0.77861821,-0.62749795,0.62749795,-0.77861821,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="237.04955"
+       y="60.908722"
+       id="text4392-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-1"
+         x="237.04955"
+         y="60.908722">5</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 245.81952,73.704198 -41.56794,0"
+       id="Shape2DView003_nwe0001-6-9"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.71385"
+       y="50.273529"
+       id="text4952-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88"
+         x="188.71385"
+         y="50.273529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3397,8 +3518,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="39.625103"
+       x="210.30649"
+       y="57.964066"
        id="text4952-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-19.png"
@@ -3406,13 +3527,13 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2"
-         x="194.03806"
-         y="39.625103">10 Hexágonos</tspan></text>
+         x="210.30649"
+         y="57.964066">10 Hexágonos</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="48.498795"
+       x="210.30649"
+       y="66.837761"
        id="text4952-1-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-19.png"
@@ -3420,8 +3541,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-0"
-         x="194.03806"
-         y="48.498795">10 Varillas Largas (<tspan
+         x="210.30649"
+         y="66.837761">10 Varillas Largas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan5985">L</tspan>)</tspan></text>
     <text
@@ -3532,6 +3653,122 @@
          x="36.739174"
          y="152.5148"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.34697"
+       y="45.015823"
+       id="text4952-8-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8"
+         x="205.34697"
+         y="45.015823"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2-0-1-7-6-3-3"
+       sodipodi:type="arc"
+       sodipodi:cx="-245.92677"
+       sodipodi:cy="76.163223"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m -243.63507,76.262984 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.369719 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"
+       transform="matrix(-0.86807032,-0.49644125,0.49644125,-0.86807032,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-8-8"
+       width="1.764412"
+       height="0.91653246"
+       x="218.11572"
+       y="-115.93639"
+       ry="0"
+       inkscape:transform-center-x="-0.76194189"
+       inkscape:transform-center-y="0.5880506"
+       transform="matrix(0.77577651,0.63100777,-0.68554411,0.72803109,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="249.96033"
+       y="57.202068"
+       id="text4392-2-6-0-8-1-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-9-2-2-9-5-61-3"
+         x="249.96033"
+         y="57.202068">6</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-1-3"
+       width="1.7644122"
+       height="0.91653246"
+       x="-182.33998"
+       y="172.03227"
+       ry="0"
+       inkscape:transform-center-x="0.8499854"
+       inkscape:transform-center-y="0.45152921"
+       transform="matrix(-0.87085488,0.4915402,0.55332998,0.83296214,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-8"
+       width="1.7644123"
+       height="0.91653246"
+       x="249.37332"
+       y="67.764389"
+       ry="0"
+       inkscape:transform-center-x="-0.95982429"
+       inkscape:transform-center-y="-0.071268004"
+       transform="matrix(0.99882072,-0.04855077,-0.02392705,0.99971371,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-481-0"
+       width="1.7644123"
+       height="0.91653246"
+       x="128.07709"
+       y="230.25215"
+       ry="0"
+       inkscape:transform-center-x="-0.58758714"
+       inkscape:transform-center-y="-0.76229433"
+       transform="matrix(0.6305322,-0.77616309,0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-5-0-4"
+       width="1.7644123"
+       height="0.91653246"
+       x="-216.93971"
+       y="-160.37373"
+       ry="0"
+       inkscape:transform-center-x="0.58758508"
+       inkscape:transform-center-y="-0.76229098"
+       transform="matrix(-0.6305322,-0.77616309,-0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-3-7"
+       width="1.7644123"
+       height="0.91653246"
+       x="-254.05634"
+       y="43.315487"
+       ry="0"
+       inkscape:transform-center-x="0.95982834"
+       inkscape:transform-center-y="-0.071271157"
+       transform="matrix(-0.99882072,-0.04855077,0.02392705,0.99971371,0,0)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 219.00144,70.387245 48.86704,0"
+       id="Shape2DView008_nwe0002-9-6"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3561,8 +3798,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="39.625103"
+       x="207.3486"
+       y="60.921963"
        id="text4952-1-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-20.png"
@@ -3570,13 +3807,13 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06"
-         x="194.03806"
-         y="39.625103">5 Pentágonos</tspan></text>
+         x="207.3486"
+         y="60.921963">5 Hexágonos</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="192.78313"
-       y="46.825558"
+       x="206.09367"
+       y="68.122421"
        id="text4952-1-7-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-20.png"
@@ -3584,8 +3821,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-0-6"
-         x="192.78313"
-         y="46.825558">10 Varillas Largas (<tspan
+         x="206.09367"
+         y="68.122421">10 Varillas Largas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan5987">L</tspan>)</tspan></text>
     <text
@@ -3730,6 +3967,122 @@
          x="94.204361"
          y="172.32524"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2-0-1-7-6-3-0"
+       sodipodi:type="arc"
+       sodipodi:cx="-243.17702"
+       sodipodi:cy="70.842476"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m -240.88531,70.942237 a 2.2938781,2.2938781 0 0 1 -2.38037,2.192403 2.2938781,2.2938781 0 0 1 -2.2039,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348258"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"
+       transform="matrix(-0.86807032,-0.49644125,0.49644125,-0.86807032,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-8-6"
+       width="1.764412"
+       height="0.91653246"
+       x="216.68166"
+       y="-110.22427"
+       ry="0"
+       inkscape:transform-center-x="-0.76194189"
+       inkscape:transform-center-y="0.5880506"
+       transform="matrix(0.77577651,0.63100777,-0.68554411,0.72803109,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="244.93188"
+       y="60.455757"
+       id="text4392-2-6-0-8-1-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-9-2-2-9-5-61-7"
+         x="244.93188"
+         y="60.455757">6</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-1-9"
+       width="1.7644122"
+       height="0.91653246"
+       x="-176.33536"
+       y="172.39505"
+       ry="0"
+       inkscape:transform-center-x="0.8499854"
+       inkscape:transform-center-y="0.45152921"
+       transform="matrix(-0.87085488,0.4915402,0.55332998,0.83296214,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-0"
+       width="1.7644123"
+       height="0.91653246"
+       x="244.41115"
+       y="70.778023"
+       ry="0"
+       inkscape:transform-center-x="-0.95982429"
+       inkscape:transform-center-y="-0.071268004"
+       transform="matrix(0.99882072,-0.04855077,-0.02392705,0.99971371,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-481-3"
+       width="1.7644123"
+       height="0.91653246"
+       x="122.24664"
+       y="228.39594"
+       ry="0"
+       inkscape:transform-center-x="-0.58758714"
+       inkscape:transform-center-y="-0.76229433"
+       transform="matrix(0.6305322,-0.77616309,0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-5-0-3"
+       width="1.7644123"
+       height="0.91653246"
+       x="-215.86206"
+       y="-154.40363"
+       ry="0"
+       inkscape:transform-center-x="0.58758508"
+       inkscape:transform-center-y="-0.76229098"
+       transform="matrix(-0.6305322,-0.77616309,-0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-3-3"
+       width="1.7644123"
+       height="0.91653246"
+       x="-248.93803"
+       y="46.818672"
+       ry="0"
+       inkscape:transform-center-x="0.95982834"
+       inkscape:transform-center-y="-0.071271157"
+       transform="matrix(-0.99882072,-0.04855077,0.02392705,0.99971371,0,0)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 213.67722,71.274615 48.86704,0"
+       id="Shape2DView008_nwe0002-9-0"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3759,8 +4112,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="194.03806"
-       y="40.880032"
+       x="206.75702"
+       y="61.585316"
        id="text4952-1-6-1-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-21.png"
@@ -3768,13 +4121,13 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-5"
-         x="194.03806"
-         y="40.880032">5 Pentágonos</tspan></text>
+         x="206.75702"
+         y="61.585316">5 Pentágonos</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="193.20143"
-       y="47.805717"
+       x="205.92039"
+       y="68.510994"
        id="text4952-1-6-1-7-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-21.png"
@@ -3782,8 +4135,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-9"
-         x="193.20143"
-         y="47.805717">5 Varillas cortas (<tspan
+         x="205.92039"
+         y="68.510994">5 Varillas cortas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6169">C</tspan>)</tspan></text>
     <text
@@ -3906,6 +4259,109 @@
          x="134.03204"
          y="43.15871"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9-2"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-4-6-6"
+       sodipodi:type="arc"
+       sodipodi:cx="247.23389"
+       sodipodi:cy="58.776146"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 249.52559,58.875907 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.369719 2.2938781,2.2938781 0 0 1 2.35902,-2.21536 2.2938781,2.2938781 0 0 1 2.22676,2.348257"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-18.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-7-4-5"
+       width="2.5949669"
+       height="1.4748223"
+       x="248.01489"
+       y="58.192757"
+       ry="0"
+       inkscape:transform-center-x="-2.347831"
+       inkscape:transform-center-y="0.018486858" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-3-8-1-2"
+       width="2.5949669"
+       height="1.474822"
+       x="18.251068"
+       y="253.04132"
+       ry="0"
+       inkscape:transform-center-x="-0.71535289"
+       inkscape:transform-center-y="-2.2362766"
+       transform="matrix(0.29716747,-0.95482537,0.95482537,0.29716747,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-4-2-6"
+       width="2.5949669"
+       height="1.4748222"
+       x="132.18291"
+       y="-218.61809"
+       ry="0"
+       inkscape:transform-center-x="-0.69591817"
+       inkscape:transform-center-y="2.2424014"
+       transform="matrix(0.30391024,0.95270067,-0.95270067,0.30391024,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-50-8-5"
+       width="2.5949669"
+       height="1.4748223"
+       x="-167.10022"
+       y="-191.73009"
+       ry="0"
+       inkscape:transform-center-x="1.9282821"
+       inkscape:transform-center-y="1.3395504"
+       transform="matrix(-0.81675876,0.57697932,-0.57697932,-0.81675876,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28222221;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-7-5-3-8-8"
+       width="2.5949669"
+       height="1.4748223"
+       x="-228.48997"
+       y="108.56116"
+       ry="0"
+       inkscape:transform-center-x="1.8164677"
+       inkscape:transform-center-y="-1.4876593"
+       transform="matrix(-0.77861821,-0.62749795,0.62749795,-0.77861821,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="246.10413"
+       y="60.31974"
+       id="text4392-6-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-1-2-9"
+         x="246.10413"
+         y="60.31974">5</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 253.86628,71.570405 -41.56794,0"
+       id="Shape2DView003_nwe0001-6-4"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3930,8 +4386,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.09016"
-       y="41.949379"
+       x="210.64072"
+       y="61.4715"
        id="text4952-1-6-1-7-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-22.png"
@@ -3939,8 +4395,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-8"
-         x="186.09016"
-         y="41.949379">10 Varillas cortas (<tspan
+         x="210.64072"
+         y="61.4715">10 Varillas cortas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6341">C</tspan>)</tspan></text>
     <text
@@ -4063,6 +4519,29 @@
          x="136.04872"
          y="53.735474"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8-3-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9-2-0"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 260.96524,64.76724 -41.56794,0"
+       id="Shape2DView003_nwe0001-6-48"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4087,8 +4566,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.09016"
-       y="41.949379"
+       x="207.68282"
+       y="71.824142"
        id="text4952-1-6-1-7-2-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-23.png"
@@ -4096,15 +4575,15 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-8-6"
-         x="186.09016"
-         y="41.949379">5 Varillas cortas (<tspan
+         x="207.68282"
+         y="71.824142">5 Varillas cortas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6523">C</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.09016"
-       y="50.315575"
+       x="207.97861"
+       y="62.738743"
        id="text4952-1-6-1-7-2-3-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-23.png"
@@ -4112,8 +4591,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-8-6-2"
-         x="186.09016"
-         y="50.315575">5 Hexágonos</tspan></text>
+         x="207.97861"
+         y="62.738743">5 Hexágonos</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4174,6 +4653,122 @@
          x="154.03606"
          y="99.540405"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8-3-1-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9-2-0-0"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4545-5-6-2-0-1-7-6-3-8"
+       sodipodi:type="arc"
+       sodipodi:cx="-243.80132"
+       sodipodi:cy="69.155037"
+       sodipodi:rx="2.2938781"
+       sodipodi:ry="2.2938781"
+       sodipodi:start="0.043503902"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m -241.50961,69.254798 a 2.2938781,2.2938781 0 0 1 -2.38036,2.192403 2.2938781,2.2938781 0 0 1 -2.20391,-2.36972 2.2938781,2.2938781 0 0 1 2.35901,-2.215359 2.2938781,2.2938781 0 0 1 2.22677,2.348257"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"
+       transform="matrix(-0.86807032,-0.49644125,0.49644125,-0.86807032,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-8-62"
+       width="1.764412"
+       height="0.91653246"
+       x="217.68562"
+       y="-108.6567"
+       ry="0"
+       inkscape:transform-center-x="-0.76194189"
+       inkscape:transform-center-y="0.5880506"
+       transform="matrix(0.77577651,0.63100777,-0.68554411,0.72803109,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.81509471px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="244.63609"
+       y="62.230499"
+       id="text4392-2-6-0-8-1-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4394-9-2-2-9-5-61-79"
+         x="244.63609"
+         y="62.230499">6</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-1-39"
+       width="1.7644122"
+       height="0.91653246"
+       x="-175.10373"
+       y="173.79887"
+       ry="0"
+       inkscape:transform-center-x="0.8499854"
+       inkscape:transform-center-y="0.45152921"
+       transform="matrix(-0.87085488,0.4915402,0.55332998,0.83296214,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-2"
+       width="1.7644123"
+       height="0.91653246"
+       x="244.15724"
+       y="72.540939"
+       ry="0"
+       inkscape:transform-center-x="-0.95982429"
+       inkscape:transform-center-y="-0.071268004"
+       transform="matrix(0.99882072,-0.04855077,-0.02392705,0.99971371,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-481-8"
+       width="1.7644123"
+       height="0.91653246"
+       x="120.74725"
+       y="229.28773"
+       ry="0"
+       inkscape:transform-center-x="-0.58758714"
+       inkscape:transform-center-y="-0.76229433"
+       transform="matrix(0.6305322,-0.77616309,0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-6-5-0-30"
+       width="1.7644123"
+       height="0.91653246"
+       x="-216.95509"
+       y="-153.05147"
+       ry="0"
+       inkscape:transform-center-x="0.58758508"
+       inkscape:transform-center-y="-0.76229098"
+       transform="matrix(-0.6305322,-0.77616309,-0.72845112,0.68509778,0,0)" />
+    <rect
+       style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.28259364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3526-6-3-5-6-2-0-2-2-6-5-4-7-8-3-1"
+       width="1.7644123"
+       height="0.91653246"
+       x="-248.59898"
+       y="48.610386"
+       ry="0"
+       inkscape:transform-center-x="0.95982834"
+       inkscape:transform-center-y="-0.071271157"
+       transform="matrix(-0.99882072,-0.04855077,0.02392705,0.99971371,0,0)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 256.82418,75.415671 -41.56794,0"
+       id="Shape2DView003_nwe0001-6-7"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4198,8 +4793,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.09016"
-       y="41.949379"
+       x="211.82387"
+       y="60.584133"
        id="text4952-1-6-1-7-2-3-19"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-24.png"
@@ -4207,8 +4802,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-8-6-4"
-         x="186.09016"
-         y="41.949379">10 Varillas largas (<tspan
+         x="211.82387"
+         y="60.584133">10 Varillas largas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6615">L</tspan>)</tspan></text>
     <text
@@ -4331,6 +4926,29 @@
          x="56.04697"
          y="93.997803"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8-3-1-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9-2-0-9"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 221.07196,64.471451 48.86704,0"
+       id="Shape2DView008_nwe0002-9-1"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4355,8 +4973,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="186.09016"
-       y="41.949375"
+       x="212.41545"
+       y="61.471497"
        id="text4952-1-6-1-7-2-3-19-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
@@ -4364,8 +4982,8 @@
        inkscape:export-ydpi="54"><tspan
          sodipodi:role="line"
          id="tspan4954-2-06-8-9-8-6-4-3"
-         x="186.09016"
-         y="41.949375">5 Varillas largas (<tspan
+         x="212.41545"
+         y="61.471497">5 Varillas largas (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6797">L</tspan>)</tspan></text>
     <text
@@ -4428,5 +5046,28 @@
          x="72.361038"
          y="102.15483"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.20592"
+       y="50.931614"
+       id="text4952-8-6-8-3-1-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54"><tspan
+         sodipodi:role="line"
+         id="tspan4954-88-8-9-2-0-0-4"
+         x="201.20592"
+         y="50.931614"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Material necesario:</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 212.19827,65.950399 48.86704,0"
+       id="Shape2DView008_nwe0002-9-9"
+       inkscape:export-filename="/home/obijuan/develop/TecnoLab/domocraft/images/domo-25.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
   </g>
 </svg>
